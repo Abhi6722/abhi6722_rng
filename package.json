@@ -1,0 +1,25 @@
+{
+  "name": "abhi6722_rng",
+  "version": "1.0.0",
+  "description": "Random Number Generator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhi6722/abhi6722_rng.git"
+  },
+  "keywords": [
+    "npm",
+    "abhi6722",
+    "rng"
+  ],
+  "author": "Abhinav Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhi6722/abhi6722_rng/issues"
+  },
+  "homepage": "https://github.com/Abhi6722/abhi6722_rng#readme"
+}
